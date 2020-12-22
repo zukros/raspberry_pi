@@ -2,7 +2,7 @@
 
 ## Raspberry Pi 3 Pin Configuration: ##
 <p align="center">
-  <src = "https://www.bigmessowires.com/wp-content/uploads/2018/05/Raspberry-GPIO.jpg">
+  <img src = "https://www.bigmessowires.com/wp-content/uploads/2018/05/Raspberry-GPIO.jpg">
 </p>
 
 
