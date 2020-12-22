@@ -1,4 +1,4 @@
-# raspberry_pi #
+# Raspberry Pi Description #
 
 ## Raspberry Pi 3 Pin Configuration: ##
 
