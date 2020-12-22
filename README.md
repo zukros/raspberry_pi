@@ -7,7 +7,7 @@
 
 ## Specification for Raspberry Pi 3 Model B :
 
-* 1. Quad Core 1.2GHz Broadcom BCM2837 64bit CPU
+* Quad Core 1.2GHz Broadcom BCM2837 64bit CPU
 * 1GB RAM
 * BCM43438 wireless LAN and Bluetooth Low Energy (BLE) on board
 * 100 Base Ethernet
