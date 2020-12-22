@@ -1,8 +1,9 @@
 # Raspberry Pi Description #
 
 ## Raspberry Pi 3 Pin Configuration: ##
-
-![alt text](https://www.bigmessowires.com/wp-content/uploads/2018/05/Raspberry-GPIO.jpg)
+<p align="center">
+  <![alt text](https://www.bigmessowires.com/wp-content/uploads/2018/05/Raspberry-GPIO.jpg)>
+</p>
 
 
 ## Specification for Raspberry Pi 3 Model B :
